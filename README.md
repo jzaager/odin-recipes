@@ -1,12 +1,12 @@
 # odin-recipes
 
-Gourmet Goodies Galore:
+Gourmet Goodies Galore
 
 # Introduction
 
 Welcome to my recipes project.
 
-Here is a (very) basic web page I'm working on to practice the
+Here is a (very) basic website I'm working on to practice the
 fundamentals of HTML. 
 
 I will also use Git to manage my version control and Github to
