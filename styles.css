@@ -1,0 +1,27 @@
+body {
+  background-color: #ffd7d7;
+  font-family:'Courier New', Courier, monospace;
+}
+
+p, h1 {
+  text-align: center;
+}
+
+p {
+  padding-top: 15px;
+  margin-bottom: -5px;
+}
+
+img {
+  border-radius: 45px;
+  height: auto;
+  width: 300px;
+  display: flex;
+  flex-direction: row;
+  flex-wrap: wrap;
+  justify-content: center;
+  align-items: center;
+  margin: 0 auto;
+  padding: 15px;
+  box-shadow: 0 5px 2px 0;
+}
