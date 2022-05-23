@@ -1,6 +1,20 @@
 body {
-  background-color: #ffd7d7;
+  background-color: white;
   font-family:'Courier New', Courier, monospace;
+  margin: 0;
+}
+
+header {
+  background-color: #CCFFFF;
+  width: 100%;
+  height: 70px;
+}
+
+h1 {
+  padding-top: 15px;
+  font-size: 40px;
+  letter-spacing: 3px;
+  margin-top: 0;
 }
 
 p, h1 {
@@ -9,7 +23,23 @@ p, h1 {
 
 p {
   padding-top: 15px;
-  margin-bottom: -5px;
+  padding-bottom: 25px;
+  margin-bottom: -15px;
+  font-weight: bold;
+  font-size: 20px;
+  color: white;
+}
+
+a:before {
+  color: white;
+}
+
+a:visited {
+  color: rgb(81, 0, 128);
+}
+
+a:hover {
+  color: white;
 }
 
 img {
@@ -22,6 +52,15 @@ img {
   justify-content: center;
   align-items: center;
   margin: 0 auto;
-  padding: 15px;
-  box-shadow: 0 5px 2px 0;
+  border: 1.5px solid white;
+  box-shadow: 0 3px 10px 2px;
+}
+
+#pasta {
+  height: auto;
+  width: 500px;
+}
+
+#cookies {
+  margin-bottom: 40px;
 }
